@@ -2,7 +2,7 @@
 
 Desarrollador de **Inteligencia Artificial & Big Data** y Técnico Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Me especializo en la construcción de flujos de automatización inteligentes, el diseño de arquitecturas multi-agente y el despliegue de soluciones con LLMs locales.
 
-## 🛠️ Tecnologías y Herramientas
+## Tecnologías y Herramientas
 
 - **Lenguajes:** Python, Java, SQL
 - **IA y LLMs:** CrewAI, LangGraph, LlamaIndex, Dify, Ollama, vLLM
@@ -10,7 +10,7 @@ Desarrollador de **Inteligencia Artificial & Big Data** y Técnico Superior en *
 - **Web y Frameworks:** Flask, Streamlit, Gradio
 - **Datos y Herramientas de Desarrollo:** Herramientas de Big Data, Git, GitHub
 
-## 🚀 Áreas Principales de Especialización
+## Áreas Principales de Especialización
 
 - **Sistemas Multi-Agente:** Creación de flujos de trabajo automatizados y basados en roles con CrewAI y LangGraph.
 - **Arquitecturas RAG:** Implementación de recuperación de información inteligente utilizando LlamaIndex.
