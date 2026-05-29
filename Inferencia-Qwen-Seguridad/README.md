@@ -17,6 +17,6 @@ Este cuaderno documenta tres experimentos críticos para entender cómo "razona"
 ##  Valor del Proyecto
 El proyecto revela que la seguridad en IA es un equilibrio técnico: demuestra cómo parámetros mal configurados pueden llevar a un modelo a "alucinar" o a ignorar sus propias instrucciones de seguridad (vulnerabilidad por *prefilling*).
 
-## 🚀 Próximos pasos
+##  Próximos pasos
 * **Defensa de Modelos:** Investigar métodos de *Guardrails* para evitar ataques de inyección de prompts.
 * **Cuantización Avanzada:** Comparar el rendimiento de la inferencia en FP16 frente a versiones cuantizadas (AWQ/INT4).
